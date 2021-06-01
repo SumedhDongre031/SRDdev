@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SRDdev
+- 👋 Hi, I’m Shreyas
 - 👀 I’m interested in Cloud Architect 
 - 🌱 I’m currently learning Python , c++
 - 💞️ I’m looking to collaborate on any new learning projects
