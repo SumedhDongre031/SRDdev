@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shreyas
 - 👀 I’m interested in Cloud Architect 
 - 🌱 I’m currently learning Python , c++
-- 💞️ I’m looking to collaborate on any new learning projects and interships
+-✨ I’m looking to collaborate on any new learning projects and interships
 - 📫 How to reach me shreyasrd31@gmail.com
 - 🔗 LinkedIn Shreyas Dixit www.linkedin.com/in/srddev
 <!---
